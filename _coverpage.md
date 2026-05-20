@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-# TOSTADOR A LA FUGA
+### TOSTADOR A LA FUGA
  
 
 
@@ -12,9 +12,9 @@
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por:  Erika (escalerilla)
 
-### Enlace a Itch.io: https://escalerilla.itch.io/demo-p2-tostador-a-la-fuga
+### Enlace a Itch.io:  https://escalerilla.itch.io/demo-p2-tostador-a-la-fuga
 
 #### Facultad de Bellas Artes. Universidad de Granada, 2026
 
