@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
 
-# Creación Multimedia Interactiva
+# TOSTADOR A LA FUGA
  
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="iniciobombo.png" width="300" height=auto alt="Logotipo"/>
 
 
 
@@ -14,9 +14,9 @@
 
 ### Proyecto realizado por:
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: https://escalerilla.itch.io/demo-p2-tostador-a-la-fuga
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
