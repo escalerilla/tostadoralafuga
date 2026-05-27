@@ -22,7 +22,7 @@ _TOSTADOR A LA FUGA_ es una pequeña aventura gráfica point-and-click en la que
 
 **· Logotipo:** (insertar imagen y breve justificación, si  tiene) 
 
-(insertar imágenes a resolucion de 100px alto)
+![icono](icono.png)
 
 **· Resolución:** 1280x720px, tamaño fijo
 
@@ -49,10 +49,13 @@ _TOSTADOR A LA FUGA_ es una pequeña aventura gráfica point-and-click en la que
 
 ### 2.1.- Storyboard: 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![storyboard](storyboard.png)
 
 
 ### 2.2.- Esquema de navegación 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![esquemanav](mapa de navegacion.png)
+
 
 
 
