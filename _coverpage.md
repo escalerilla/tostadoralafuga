@@ -6,7 +6,7 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="iniciobombo.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="icono.png" width="300" height=auto alt="Logotipo"/>
 
 
 
