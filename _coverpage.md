@@ -14,7 +14,7 @@
 
 #### Proyecto realizado por:  Erika García Moreno
 
-#### Enlace a Itch.io:  https://escalerilla.itch.io/demo-p2-tostador-a-la-fuga
+#### Enlace a Itch.io: (https://escalerilla.itch.io/tostador-a-la-fuga)
 
 #### Facultad de Bellas Artes, Universidad de Granada, 2026
 
