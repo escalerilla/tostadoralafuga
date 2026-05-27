@@ -1,100 +1,80 @@
-## (Nombre del proyecto)
+# _TOSTADOR A LA FUGA_
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
-
-
-
-# 1 Datos 
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes, Universidad de Granada.
 
 
 
-**Titulo** : MI Proyecto(nombre)
+## 1.- Datos 
 
-**Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
+**· Título:** _TOSTADOR A LA FUGA_
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**· Web:** (url github.io)
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**· Autor:** Erika García Moreno [(Info)](cmi-card2.html)
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**· Descripción y resumen:** El viejo Fabio el Tuerto ha perdido su querido tostador, pero en vez e buscarlo por su cuenta le ha dejado el marrón a un par de críos... y uno de ellos eres tú. Tan solo tienes que dar con el cachivache; no puede ser muy difícil, ¿verdad?
+
+_TOSTADOR A LA FUGA_ es una pequeña aventura gráfica point-and-click en la que un par de amigos buscan un tostador. Mientras recorren las calles de la ciudad se toparán con residentes un poco peculiares, que les ayudarán a llegar a su objetivo. El diálogo y la investigación son lo más importante, pues el jugador ha de encontrar la forma de dar con el ansiado trasto prestando atención a lo que descubren nuestros protagonistas mientras interactúan con el mundo.
+
+**· Estilo/género:**  Aventura gráfica, point-and-click
+
+**· Logotipo:** (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**· Resolución:** 1280x720px, tamaño fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**· Probado en:** Google Chrome y Mozilla Firefox
 
-**Tamaño proyecto:** 14MB 
+**· Tamaño proyecto:** XMB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**· Licencia:** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**· Fecha:** 27/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
+**· Medios:**
+- Github: (enlace)
+- Itch.io: (enlace)
 
 
 ![girl](WalkingGirl_front01.png)
 
-# 2. Memoria del proyecto 
-
-### 2.1 Storyboard: 
 
 
+## 2.- Memoria del proyecto
 
+
+
+### 2.1.- Storyboard: 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
-
-### 2.2. Esquema de navegación 
-
-
-
+### 2.2.- Esquema de navegación 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
+## 3.- Metodología
 
 
 
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience).
 
 
 
-## Etapa 1: Ideación de proyecto
+### 3.1.- Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**· Investigación de campo:** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**· Motivación de la propuesta:** Este proyecto es interesante porque... 
 
-
-
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
+**· Publico/audiencia:** Orientado a...
 
 
 
-**Publico / audiencia**
-
-- Orientado a 
-
-
-
-
-
-## Etapa 2: Desarrollo / actividades realizadas
+### 3.2.- Etapa 2: Desarrollo y actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
@@ -106,38 +86,34 @@ Este  proyecto es interesante porque ...
 
 
 
-## Etapa 3: Problemas identificados
+### 3.3.- Etapa 3: Problemas identificados
 
 (que consideras que no  funciona correctamente y por qué )
 
 
 
-# 4. Conclusiones 
+## 4.- Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 
 
+## 5.- Referencias 
 
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs** 
-
+**· Artículos y blogs:** 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
-**Recursos y materiales audiovisuales:**
+**· Recursos y materiales audiovisuales:**
+- Música:  Todo el soundtrack es de _The Great Ace Attorney Chronicles_, compuesto por Yasumasa Kitagawa.
+- Arte:  Todas las ilustraciones son propias y originales.
+- Vídeo: _horizontally spinning rat_, de X en YouTube.
+- Tipografía: Special_Elite.
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+**· Herramientas utilizadas**
+- Godot Engine 4.6
+- ClipStudioPaint
 
-**Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
@@ -146,4 +122,6 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+
+
+27 de mayo de 2026.
