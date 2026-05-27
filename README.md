@@ -22,7 +22,7 @@ _TOSTADOR A LA FUGA_ es una pequeña aventura gráfica point-and-click en la que
 
 **· Logotipo:** (insertar imagen y breve justificación, si  tiene) 
 
-![icono](icono.png)
+<img align="center" src="icono.png" width="300" height=auto alt="Logotipo"/>
 
 **· Resolución:** 1280x720px, tamaño fijo
 
