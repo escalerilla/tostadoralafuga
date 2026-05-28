@@ -93,9 +93,21 @@ Estas son unas cuantas páginas de bocetos, ideas y exploraciones de los persona
 ### 3.2.- Etapa 2: Desarrollo y actividades realizadas
 
 
+![portada](portada.png)
 ![assetsej1](assetsej1.png)
 ![assetsej2](assetsej2.png)
 ![assetsej4](assetsej4.png)
+
+- Diseño de personajes, diseño de escenarios y guión originales, con todos los assets (menos la música y el vídeo, cuyos créditos están más abajo) diseñados y dibujados por mí.
+- Varios personajes con varias expresiones, es decir, diferentes sprites.
+- Versión de sprites "mini" para aquellos personajes con los que se puede interactuar en el mundo (Keppler, Gunter y Fabio el Tuerto).
+- Varios escenarios explorables conforme avanza la historia.
+- Ilustraciones especiales para cinemáticas, animaciones y la pantalla de inicio.
+- Guía visual para el jugador: Las lupas indican todos los elementos interactuables del mundo, y hacer click sobre ellos ejecutará un diálogo que ayudará al jugador a avanzar con la historia o a descubrir detalles sobre sus alrededores.
+- Mecánicas complejas de juego: Implementación de Dialogic con diálogos normales y diálogos con elecciones, mediante las que el jugador deberá decidir si quiere avanzar con la historia o si, por el contrario, quiere seguir investigando por su cuenta. Para esto hice uso de señales y variables. Implementación, además, de un minijuego estilo Drag & Drop que el jugador debe superar para avanzar con la trama.
+- Diseño de sonido: Soundtrack diverso controlado mediante sonido global y efectos de sonido para botones y Dialogic.
+- Diseño de interfaz coherente en todo el juego: Botones, fuentes y un tema personalizado de Dialogic que se adecúen a la estética.
+- Cinemáticas animadas mediante AnimationPlayer.
 
 
 ### 3.3.- Etapa 3: Problemas identificados
