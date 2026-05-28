@@ -77,8 +77,12 @@ Para crear _TOSTADOR A LA FUGA_, he hecho uso de una metodología de desarrollo 
 ### 3.1.- Etapa 1: Ideación de proyecto
 
 **- Investigación de campo:**
+La idea de este juego surgió a partir de dos personajes que tengo y que dibujo mucho, un par de niños que se conocen en una ciudad. Cuando se nos presentó la oportunidad de hacer un videojuego, supe que quería hacer uno donde estos dos personajes fueran los protagonistas de una aventura un poco disparatada y sin sentido, con el fin de explorar sus personalidades y cómo interactuarían con el mundo, que es la ciudad donde viven, llena de personajes extravagantes. Como tenía bastante claros los diseños de los dos protagonistas de antemano, el reto fue diseñar una ciudad y unos personajes que encajaran con ellos, y que hiciesen que la historia del juego fuese coherente, a la vez que divertida. Desde siempre me han encantado los juegos de puzles y las novelas gráficas, así que tenía claro que quería hacer alguna especie de point-and-click con una cámara fija donde el jugador pudiese investigar e interactuar con su alrededor. Tomé como inspiración principal la saga del Profesor Layton, de LEVEL-5, pues parte de premisas un tanto absurdas y tiene personajes muy carismáticos. Además, me sirvió como estudio de su estilo gráfico, que es uno de los aspectos que más me fascinan de la saga. La paleta de colores y la composición de los escenarios están inspiradas en estos juegos.
 
 ![assetsej3](assetsej3.png)
+
+Estas son unas cuantas páginas de bocetos, ideas y exploraciones de los personajes, los puzles del juego y sus escenarios. Podemos ver a los protagonistas, prototipos de botones, animaciones, el esquema de navegación... y cómo nacieron personajes nuevos como el niño llorón, Gunter.
+
 
 **- Motivación de la propuesta:** Este proyecto es interesante porque explora la posibilidad de narrar una historia a través de un medio interactivo como es el videojuego. Como gran fan de las novelas visuales y las aventuras gráficas, me dispuse a hacer una novela gráfica propia en la que predominase el diálogo y el atractivo gráfico, dejando que el jugador entre de lleno en su mundo y conozca a sus personajes. El juego no puede avanzar sin la interacción del jugador, que es quien mueve realmente las fichas del tablero, pero lo que hará que este quiera seguir jugando será que la historia realmente le captive y le de curiosidad saber cómo continúa. Los personajes son divertidos, alocados y el diálogo es dinámico. También quise que la historia tuviese una premisa un tanto tonta, como es buscar un tostador. Esto me dejó rienda suelta para crear situaciones y diálogos más divertidos.
 
@@ -103,13 +107,14 @@ Para crear _TOSTADOR A LA FUGA_, he hecho uso de una metodología de desarrollo 
 
 ### 3.3.- Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Primero he de mencionar que comencé en la asignatura con conocimientos muy básicos de programación y un conocimiento nulo sobre Godot. Aunque ha sido bastante complicado llevar a cabo un proyecto así en un solo semestre, lo que me ha ayudado a poder crear un videojuego con el que estuviese satisfecha es el hecho de que me entusiasman los videojuegos y las historias. Aunque no tenía ni idea de cómo usar Godot, me interesa el mundo del diseño de videojuegos y, al final, cuando uno juega mucho acaba aprendiendo qué funciona mejor y qué no. _TOSTADOR A LA FUGA_ ha acabado siendo un juego pequeño y corto pero cumple con el objetivo principal que me propuse: que fuese una historia divertida y un poco estúpida con un desenlace, una pequeña historieta donde es el jugador quien va abriéndose paso en el mundo. Mi mayor problema durante todo el desarrollo fue la longitud, pues al final un juego que se basa mucho en el diálogo tiende a extenderse y extenderse sin parar, sobre todo si narra una historia autoconclusiva. Al principio me emocioné y pensé en muchísimos puzles y caminos alternativos, pero al final opté por crear una línea de juego más sencilla y centrarme en que todo funcionase bien, pulir los temas de sonido, animación y controles y que el apartado gráfico fuese todo lo bueno que pudiese ser.
+Por el camino me he tenido que dar cabezazos con un montón de fallos, código que se me quedaba colgado y cosas que sabía cómo quería que funcionasen pero no tenía ni idea de cómo programar. Al final conseguí que el juego funcione sin ningún problema muy grave.
 
 
 
 ## 4.- Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+La verdad es que, por muy complicado que haya sido el proyecto, teniendo en cuenta además que lo hemos hecho en un solo semestre, ha sido probablemente el trabajo que más me ha motivado y que más he ido avanzando día a día. Siempre me había hecho mucha ilusión probar a hacer un videojuego, por pequeño que sea, aunque nunca me había atrevido por mi cuenta. Por eso me vino genial que esta asignatura me diera un poco un empujón para sacar un proyecto así adelante. Hay mil cosas que mejoraría de mi juego, pero me alegro de haber conseguido terminarlo (y acabar muy satisfecha con el resultado).
 
 
 
