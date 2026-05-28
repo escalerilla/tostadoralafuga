@@ -37,7 +37,7 @@ _TOSTADOR A LA FUGA_ es una pequeña aventura gráfica point-and-click en la que
 
 **- Medios:**
 - Github: https://escalerilla.github.io/tostadoralafuga/
-- Itch.io: https://escalerilla.itch.io/tostador-a-la-fuga
+- Itch.io: https://escalerilla.itch.io/tostador-a-la-fuga (la contraseña es "tostador").
 
 
 
