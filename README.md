@@ -92,13 +92,6 @@ Estas son unas cuantas páginas de bocetos, ideas y exploraciones de los persona
 
 ### 3.2.- Etapa 2: Desarrollo y actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
 
 ![assetsej1](assetsej1.png)
 ![assetsej2](assetsej2.png)
@@ -139,7 +132,7 @@ La verdad es que, por muy complicado que haya sido el proyecto, teniendo en cuen
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia](licencia.png)
 
 
 
